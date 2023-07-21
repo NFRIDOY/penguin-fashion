@@ -1,0 +1,13 @@
+echo "# penguin-fashion PostCSS Tailwind with Vite" >> README.md
+git init
+git add .
+git commit -m "penguin-fashion PostCSS Tailwind with Vite"
+git branch -M main
+git remote add origin https://github.com/NFRIDOY/penguin-fashion.git
+git push -u origin main
+
+----------------
+
+git remote add origin https://github.com/NFRIDOY/penguin-fashion.git
+git branch -M main
+git push -u origin main
